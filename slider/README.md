@@ -1,4 +1,5 @@
-# react-projects-7-slider
+## Live Demo
+https://slider-demo-clone.netlify.app/
 
 #### IN ACTION
 
